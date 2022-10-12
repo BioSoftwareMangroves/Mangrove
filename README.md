@@ -22,12 +22,16 @@ Mangrove is a collection of bioinformatics workflows, new software and benchmark
 
 -	How do I use Mangrove?  
 Find the code you would like to run for your analysis through the wiki and clone the repository. 
+
+- How to benchmark energy efficiency?
+Your algorithm's energy efficiency can be estimated with the green algorithm calculator (https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202100707, http://www.green-algorithms.org/) 
  
 -	Who can contribute and how?  
 Absolutely anyone may contribute to existing projects via pull requests. Code edits towards usability, recompiling, bug fixes etc. are also welcome! To begin a project, or suggest new analysis please submit your ideas via issues. 
 
 -	Can I publish my contributions?   
 Yes! Feel free to publish anything you’ve found or developed while contributing. Please let us know about any publications so we can list them. 
+
 
 <br /><br /><br /><br /><br />
 
